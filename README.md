@@ -1,2 +1,0 @@
-# biomass
-about biomass
